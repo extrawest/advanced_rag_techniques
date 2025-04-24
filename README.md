@@ -128,7 +128,13 @@ The code in these lessons uses various components from:
 - Chroma
 - HuggingFace models for embeddings
 
-## 🚀 Usage
+## 🚀 Installation
 
-Each lesson is a standalone Python script that can be run independently. 
-Make sure to install the required dependencies and configure any necessary API keys for external services like OpenAI.
+```bash
+# Install required packages
+pip install -r requirements.txt
+
+# Set up your OpenAI API key
+# Either create a .env file with OPENAI_API_KEY=your-api-key
+# Or export it in your shell:
+export OPENAI_API_KEY=your-api-key
