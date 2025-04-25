@@ -1,5 +1,11 @@
 # 🚀 LangChain RAG Tips and Tricks
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
+[![Maintainer](https://img.shields.io/static/v1?label=Yevhen%20Ruban&message=Maintainer&color=red)](mailto:yevhen.ruban@extrawest.com)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)
+
 This repository contains a series of lessons demonstrating advanced Retrieval-Augmented Generation (RAG) techniques using LangChain. 
 Each lesson focuses on a specific approach to improve retrieval quality and efficiency.
 
